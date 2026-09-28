@@ -1,0 +1,14 @@
+{
+  "name": "realtime-chat-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack Real-Time Chat Application with React Native / React and Node.js + Express + Socket.io",
+  "scripts": {
+    "start": "npm --prefix realtime-chat-server run dev",
+    "server": "npm --prefix realtime-chat-server run dev",
+    "client": "npm --prefix realtime-chat-client run dev",
+    "client:web": "npm --prefix realtime-chat-client run web",
+    "build:server": "npm --prefix realtime-chat-server run build",
+    "start:server:prod": "npm --prefix realtime-chat-server run start"
+  }
+}
