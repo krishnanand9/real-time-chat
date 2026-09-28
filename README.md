@@ -339,5 +339,6 @@ Base URL: `http://localhost:5000`
 2. Deploy from GitHub repository selecting the `realtime-chat-server` directory.
 3. Railway automatically detects `npm run build` and `npm start`.
 4. Update `EXPO_PUBLIC_API_URL` on the frontend with the deployed backend URL.
-#   r e a l - t i m e - c h a t  
+#   r e a l - t i m e - c h a t 
+ 
  
